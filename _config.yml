@@ -1,7 +1,7 @@
-name: nem
+name: The New Era Museum Grid
 favicon: null
-layout_spectrum: 0.2452106336131692
-typography_spectrum: 0.26051
+layout_spectrum: 0.74842
+typography_spectrum: 0.28875
 title: The New Era Museum NEM Grid
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#736258'
     - '#9d9181'
   brandStrength: 0.1875
-  lightness: 0.25
+  lightness: 0.1875
   saturation: 0.749537359457463
-  rhythmicContrast: 0.1735142022371292
+  rhythmicContrast: 0.25
 purpose: []
