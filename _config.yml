@@ -1,0 +1,28 @@
+name: nem
+favicon: null
+layout_spectrum: 0.2452106336131692
+typography_spectrum: 0.22585332510061562
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.058896658942103386
+  lightness: 0.7346526572946459
+  saturation: 0.749537359457463
+  rhythmicContrast: 0.1735142022371292
+purpose: []
