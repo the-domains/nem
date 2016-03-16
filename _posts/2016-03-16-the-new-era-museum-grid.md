@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I'm glad to announce that the New Era Museum double the fun with this new web space hosted on the Grid."
-datePublished: '2016-03-16T21:56:26.083Z'
-dateModified: '2016-03-16T21:52:25.386Z'
+datePublished: '2016-03-16T22:12:12.387Z'
+dateModified: '2016-03-16T22:12:00.237Z'
 title: The New Era Museum Grid
 author: []
 sourcePath: _posts/2016-03-16-the-new-era-museum-grid.md
