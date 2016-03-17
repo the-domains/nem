@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum NEM Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 17:58:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 18:07:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IHUH ROME 2016 - THE AWARDS]]></title>
+            <description><![CDATA[<article><h1>IHUH ROME 2016 - THE AWARDS</h1><p>Photo by Edward Santos winner of the IHUH Best in show Award And the award goes to ... The IHUH International Jury formed by: ALDO PACHECO, ANDY BUTLER, BRENDAN Ó SÉ, CLARISSE DEBOUT, DIETER GAEBEL, DILSHAD CORLEONE, MARK DANIELS, NETTIE EDWARDS, PATRICIA LARSON, ALEX VISAGE plus Andrea Bigiarini, Pollock Project and Lorenza Somogyl Bianchi of Ginger Magazine.</p><img src="http://static1.squarespace.com/static/50e5b834e4b0837383d7bb18/50e5b834e4b0837383d7bb1f/56d8a1df86db4376b82af28d/1457124116461/?format=1000w"></article>]]></description>
+            <link>http://neweramuseum.org/words/2016/3/3/ihuh-rome-2016-the-awards</link>
+            <guid isPermaLink="false">bea00609-d0d0-494c-832a-eeb4498c3dda</guid>
+            <pubDate>Thu, 17 Mar 2016 18:06:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IHUH Awards]]></title>
             <description><![CDATA[<article><h1>IHUH Awards</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/249ef46741682869b9691005195732be65952799.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/groups/neweramuseum/pool/</link>
             <guid isPermaLink="false">d6f677c9-80c3-4dd6-9766-6c39a8d86454</guid>
             <pubDate>Wed, 16 Mar 2016 22:06:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New Era Museum 3rd Anniversary Collector's Edition on Flipboard]]></title>
-            <description><![CDATA[<article><h1>The New Era Museum 3rd Anniversary Collector's Edition on Flipboard</h1><p>By Andrea Bigiarini | Celebrating 3 years of fine iPhoneography on NEM</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71751322fb32db3d126400a935efa04673af1c19.jpg"></article>]]></description>
-            <link>https://flipboard.com/@norbu56/the-new-era-museum-3rd-anniversary-collector%27s-edition-dmv43sniy</link>
-            <guid isPermaLink="false">f1ec06a8-ad7e-43b1-8482-a0f7a41f8153</guid>
-            <pubDate>Wed, 16 Mar 2016 22:02:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
