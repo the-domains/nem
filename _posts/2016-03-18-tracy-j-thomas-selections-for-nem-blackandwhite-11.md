@@ -1,14 +1,9 @@
 ---
-author:
-  - name: tjthomas.photography@gmail.com
-    url: 'http://neweramuseum.org/words/?author=5111806be4b06f948835f2ca'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://neweramuseum.org'
-  name: The New Era Museum
-  favicon: 'http://neweramuseum.org/favicon.ico'
-  domain: neweramuseum.org
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - v-ex
   - schlossberg
@@ -21,17 +16,24 @@ keywords:
   - artist
   - laszlo
 description: 'THESE ARE THE 8 ENTRIES SELECTED BY TRACY J THOMAS FOR THE "NEM BLACK&WHITE" PHOTO-ACTION ON EYEEM. TRACY J THOMAS - NEM FOUNDER ARTIST AND CURATOR FOR "NEM BLACK&WHITE."'
-inLanguage: en
+datePublished: '2016-03-18T13:04:24.989Z'
+dateModified: '2016-03-18T13:03:43.352Z'
+author:
+  - name: tjthomas.photography@gmail.com
+    url: 'http://neweramuseum.org/words/?author=5111806be4b06f948835f2ca'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://neweramuseum.org/words/2014/3/23/tracy-j-thomas-selections-for-nem-blackwhite-11'
 title: 'TRACY J THOMAS - SELECTIONS FOR "NEM BLACK&WHITE" - 11'
-datePublished: '2016-03-18T13:00:51.709Z'
-dateModified: '2016-03-18T12:59:50.733Z'
 sourcePath: _posts/2016-03-18-tracy-j-thomas-selections-for-nem-blackandwhite-11.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: The New Era Museum
+  domain: neweramuseum.org
+  url: 'http://neweramuseum.org'
+  favicon: 'http://neweramuseum.org/favicon.ico'
+url: tracy-j-thomas-selections-for-nem-blackandwhite-11/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
