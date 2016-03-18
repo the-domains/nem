@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 18:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 21:54:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NEM Green]]></title>
+            <description><![CDATA[<article><h1>NEM Green</h1><p>NEM Green - The selected artworks by Giancarlo Beltrame. Featured artists: Andrea Koerner, Benamon Tame, Davide Capponi, Fabio D'Andrea, Federica Corbelli, Paul Brown, Perla Hernandez and Simone Reynolds</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51f52bdc2abd1a7c6d076bfee38956968317a94c.jpg"></article>]]></description>
+            <link>http://neweramuseum.org/nem-green</link>
+            <guid isPermaLink="false">05c2f25d-4407-42d8-a528-901dc219ba98</guid>
+            <pubDate>Fri, 18 Mar 2016 21:53:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Be Unexpected. Be Human.]]></title>
             <description><![CDATA[<article><h1>Be Unexpected. Be Human.</h1><p>Impossible Humans - The Unexpected Happening - Auditorium Rome - March 12th A New Era Museum & Pollock Project Art Happening Music by Andrea Bigiarini "Be Unexpected. Be Human" ProShow Web Video Slideshow</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c169e7dcbde2231b238998efc06629715d3495d7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://neweramuseum.org/words/2016/3/3/ihuh-rome-2016-the-awards</link>
             <guid isPermaLink="false">bea00609-d0d0-494c-832a-eeb4498c3dda</guid>
             <pubDate>Thu, 17 Mar 2016 18:06:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IHUH Awards]]></title>
-            <description><![CDATA[<article><h1>IHUH Awards</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/249ef46741682869b9691005195732be65952799.png"></article>]]></description>
-            <link>https://thegrid.ai/nem/ihuh-awards/index.html</link>
-            <guid isPermaLink="false">47cde357-2749-4e88-8c99-314bc0ac7c6b</guid>
-            <pubDate>Thu, 17 Mar 2016 17:58:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
