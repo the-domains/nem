@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://neweramuseum.org/words/2014/3/23/tracy-j-thomas-selections-for-nem-blackwhite-11'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - artist
   - laszlo
 description: 'THESE ARE THE 8 ENTRIES SELECTED BY TRACY J THOMAS FOR THE "NEM BLACK&WHITE" PHOTO-ACTION ON EYEEM. TRACY J THOMAS - NEM FOUNDER ARTIST AND CURATOR FOR "NEM BLACK&WHITE."'
-datePublished: '2016-03-18T13:04:24.989Z'
-dateModified: '2016-03-18T13:03:43.352Z'
+datePublished: '2016-03-18T18:00:22.719Z'
+dateModified: '2016-03-18T18:00:16.028Z'
 author:
   - name: tjthomas.photography@gmail.com
     url: 'http://neweramuseum.org/words/?author=5111806be4b06f948835f2ca'
@@ -33,7 +34,6 @@ publisher:
   domain: neweramuseum.org
   url: 'http://neweramuseum.org'
   favicon: 'http://neweramuseum.org/favicon.ico'
-url: tracy-j-thomas-selections-for-nem-blackandwhite-11/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
