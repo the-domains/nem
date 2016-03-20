@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-20T20:41:40.153Z'
-dateModified: '2016-03-20T20:41:14.861Z'
+description: 'James Clarke Selection for NEM Clouds #30'
+datePublished: '2016-03-20T20:43:54.462Z'
+dateModified: '2016-03-20T20:43:42.024Z'
 title: 'NEM Clouds #30 - JAMES CLARKE'
 author: []
+sourcePath: _posts/2016-03-20-nem-clouds-30-james-clarke.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-nem-clouds-30-james-clarke.md
-published: true
 url: nem-clouds-30-james-clarke/index.html
 _type: Article
 
