@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'ARTWORKS BY: Jo Sullivan, Elaine Taylor, Judy Green, Claudia Contreras, Allyson Marie, Robert Pritchard, Frédéric Deschênes, and Gina Costa'
-datePublished: '2016-03-20T20:58:09.544Z'
-dateModified: '2016-03-20T20:57:00.982Z'
+datePublished: '2016-03-20T21:17:37.112Z'
+dateModified: '2016-03-20T20:58:15.612Z'
 title: 'NEM Clouds #30 - JAMES CLARKE'
 author: []
 sourcePath: _posts/2016-03-20-nem-clouds-30-james-clarke.md
