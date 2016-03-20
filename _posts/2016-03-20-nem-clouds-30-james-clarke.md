@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: 'THESE ARE THE 8 ENTRIES SELECTED BY JAMES CLARKE, CURATOR OF THE "NEM CLOUDS" PHOTO-ACTION ON NEM CLOUDS FACEBOOK GROUP:'
-datePublished: '2016-03-20T20:47:45.939Z'
-dateModified: '2016-03-20T20:47:25.465Z'
+description: 'ARTWORKS BY: Jo Sullivan, Elaine Taylor, Judy Green, Claudia Contreras, Allyson Marie, Robert Pritchard, Frédéric Deschênes, and Gina Costa'
+datePublished: '2016-03-20T20:58:09.544Z'
+dateModified: '2016-03-20T20:57:00.982Z'
 title: 'NEM Clouds #30 - JAMES CLARKE'
 author: []
 sourcePath: _posts/2016-03-20-nem-clouds-30-james-clarke.md
