@@ -4,22 +4,8 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 18:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 18:07:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[A Thousand Words]]></title>
-            <description><![CDATA[<article><h1>A Thousand Words</h1><p>I am constantly blown away by the incredible art that comes out of the mobile photography community. Many of the top mobile photographers have come from a background in traditional photography, though quite a few have had very little experience in the craft.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0627444069dfd5443243721699373c1c24025ca9.jpg"></article>]]></description>
-            <link>http://tracyjthomas.me/tag/new-era-museum/</link>
-            <guid isPermaLink="false">71a51065-c30a-4ca9-aa9d-86338148de67</guid>
-            <pubDate>Sun, 27 Mar 2016 18:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iPhone photography Muscari featured by New Era Museum | Skipology]]></title>
-            <description><![CDATA[<article><h1>iPhone photography Muscari featured by New Era Museum | Skipology</h1><p>Muscari is a recent image created following the recent upgrade to Mextures v2. The painterly, textured processing was accomplished entirely using Mextures and is an alternative edit to my recently published Muscari texture blending workflow. My video tutorial and step by step Mextures guide can be viewed here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d59f502e7d5af32e72dd747e02d482b10afdd966.jpg"></article>]]></description>
-            <link>http://skipology.com/iphone-photography-muscari-featured-new-era-museum/</link>
-            <guid isPermaLink="false">2eb37716-4d5a-4a7a-a2b2-d78dbc485286</guid>
-            <pubDate>Sun, 27 Mar 2016 18:06:43 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://40.media.tumblr.com/9a7d1d8c2fce4e977fab3cbe4e2033f1/tumblr_mz08fcS4hh1qz9plvo1_500.jpg">]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.youtube.com/watch?v=Nkfe0WYDeM8</link>
             <guid isPermaLink="false">a1083b7d-c9f3-4eda-b103-bbe025d475b0</guid>
             <pubDate>Wed, 23 Mar 2016 14:56:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unexpected Happening Rome 2016]]></title>
+            <description><![CDATA[<article><h1>Unexpected Happening Rome 2016</h1><p>Unexpected Happening | New Era Museum & Pollock Project | Rome 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0181c4eab210596169605805b03fcbfca45aa033.jpg"></article>]]></description>
+            <link>https://vimeo.com/159992766</link>
+            <guid isPermaLink="false">665ebd13-cb16-4389-82c4-6a8900884424</guid>
+            <pubDate>Tue, 22 Mar 2016 21:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NEM Green]]></title>
+            <description><![CDATA[<article><h1>NEM Green</h1><p>NEM Green - The selected artworks by Giancarlo Beltrame. Featured artists: Andrea Koerner, Benamon Tame, Davide Capponi, Fabio D'Andrea, Federica Corbelli, Paul Brown, Perla Hernandez and Simone Reynolds</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51f52bdc2abd1a7c6d076bfee38956968317a94c.jpg"></article>]]></description>
+            <link>http://neweramuseum.org/nem-green</link>
+            <guid isPermaLink="false">05c2f25d-4407-42d8-a528-901dc219ba98</guid>
+            <pubDate>Fri, 18 Mar 2016 21:53:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
