@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 11:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 13:40:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mobiography Magazine: The Second Anniversary Issue is Out Now]]></title>
+            <description><![CDATA[<article><h1>Mobiography Magazine: The Second Anniversary Issue is Out Now</h1><p>Today I'm thrilled to announce the publication of the second anniversary issue of Mobiography magazine. I cannot believe Mobiography is now two years old. When I look back it has been a truly remarkable journey that has given me the opportunity of speaking to and showcasing the work of so many talented mobile photographers and artists from the community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7549d78232f0e0b9b441932ad863a165c4df5fe7.jpg"></article>]]></description>
+            <link>http://www.mobiography.net/photography-news-views/mobiography-magazine-anniversary-issue/</link>
+            <guid isPermaLink="false">20f9dcee-9429-4b88-a431-8c3816c66900</guid>
+            <pubDate>Mon, 28 Mar 2016 13:40:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mobile Photo News, Clips, Info]]></title>
             <description><![CDATA[<article><h1>Mobile Photo News, Clips, Info</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/217fdf040d55c0189d42a674a179baabb99f9eda.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://40.media.tumblr.com/9a7d1d8c2fce4e977fab3cbe4e2033f1/tumblr_mz08fcS4hh1qz9plvo1_500.jpg">]]></description>
             <link>https://thegrid.ai/nem/4d7b43da-94e9-49c9-b839-4c38ffb00c25/index.html</link>
             <guid isPermaLink="false">4d7b43da-94e9-49c9-b839-4c38ffb00c25</guid>
-            <pubDate>Sun, 27 Mar 2016 18:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Era for Rome]]></title>
-            <description><![CDATA[<article><h1>New Era for Rome</h1><p>New Era Museum - Impossible Humans had stopped in Rome. The meeting point is Galleria Lancellotti in piazza Lancellotti from now to 26th March (it opens Monday-Saturday from 4.30 to 7.30 PM) On the right Alessandra Serpieri, Art Director of Galleria Lancellotti, on the left Edward Santos, winner of the contest Impossible Humans - Portraits....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e53082fc9d6a916e5d62fb725274e2c7a798c01c.jpg"></article>]]></description>
-            <link>https://marcodiblog.com/2016/03/14/new-era-for-rome/</link>
-            <guid isPermaLink="false">68eea619-6103-4588-9d46-fef1dc6d7d40</guid>
             <pubDate>Sun, 27 Mar 2016 18:06:43 GMT</pubDate>
         </item>
     </channel>
