@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 11:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 11:22:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mobile Photo News, Clips, Info]]></title>
+            <description><![CDATA[<article><h1>Mobile Photo News, Clips, Info</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/217fdf040d55c0189d42a674a179baabb99f9eda.jpg"></article>]]></description>
+            <link>http://www.scoop.it/t/mobile-photo-news-clips-info</link>
+            <guid isPermaLink="false">8dab46fe-687e-4f3f-8271-803895c38297</guid>
+            <pubDate>Mon, 28 Mar 2016 11:22:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[9 Amazing Examples of iPhone Art]]></title>
             <description><![CDATA[<article><h1>9 Amazing Examples of iPhone Art</h1><p>One of the most powerful features about mobile devices is the endless choice of photo editing apps that are available in the App Store. Once you have skilfully mastered these apps it is amazing what can be created from a simple photograph.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e39ca69038d0c70483fca581f3328520516c490b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://marcodiblog.com/2016/03/14/new-era-for-rome/</link>
             <guid isPermaLink="false">68eea619-6103-4588-9d46-fef1dc6d7d40</guid>
             <pubDate>Sun, 27 Mar 2016 18:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FIPA - Summer 2015 on Flipboard]]></title>
-            <description><![CDATA[<article><h1>FIPA - Summer 2015 on Flipboard</h1><p>By Andrea Bigiarini | Florence International Photography Awards</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02107940b5fe2abe6b14460227a85f9dcceb98cf.jpg"></article>]]></description>
-            <link>https://flipboard.com/@norbu56/fipa---summer-2015-ft8uucn4y</link>
-            <guid isPermaLink="false">22c4548b-bb1a-4ead-85e8-dadcb019c50c</guid>
-            <pubDate>Sun, 27 Mar 2016 16:13:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
