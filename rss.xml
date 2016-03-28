@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 11:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 11:00:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[9 Amazing Examples of iPhone Art]]></title>
+            <description><![CDATA[<article><h1>9 Amazing Examples of iPhone Art</h1><p>One of the most powerful features about mobile devices is the endless choice of photo editing apps that are available in the App Store. Once you have skilfully mastered these apps it is amazing what can be created from a simple photograph.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e39ca69038d0c70483fca581f3328520516c490b.jpg"></article>]]></description>
+            <link>http://www.mobiography.net/inspiration/iphone-art-showcase/</link>
+            <guid isPermaLink="false">51ed7fef-3531-49b6-b8b7-107545af507c</guid>
+            <pubDate>Mon, 28 Mar 2016 10:59:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NAO MAGAZINE]]></title>
             <description><![CDATA[<article><h1>NAO MAGAZINE</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6a0fe8033e70bab35b2e180fe672124e500d328.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://flipboard.com/@norbu56/fipa---summer-2015-ft8uucn4y</link>
             <guid isPermaLink="false">22c4548b-bb1a-4ead-85e8-dadcb019c50c</guid>
             <pubDate>Sun, 27 Mar 2016 16:13:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEM Red 05/06 - Curated by Lisa Peters]]></title>
-            <description><![CDATA[<article><h1>NEM Red 05/06 - Curated by Lisa Peters</h1><p>DOUBLE FEATURE LISA PETERS - RED FOUNDER AND NEM ARTIST Thanks to everyone for submitting such amazing RED art.What emerged is a collection of studies of the superhuman figure in self inflicted, self indulgent isolation. A beautifully almost abject state of being, which reflects an ironically alluring price of the power of RED.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2a182c8ed447d5f20efa2d3f2b58f1b1f177dd1.jpg"></article>]]></description>
-            <link>http://neweramuseum.org/words/2016/3/27/nem-red-0506-curated-by-lisa-peters</link>
-            <guid isPermaLink="false">f00cc425-f0de-475e-9a9e-b97f22641312</guid>
-            <pubDate>Sun, 27 Mar 2016 15:43:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
