@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 18:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 11:00:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NAO MAGAZINE]]></title>
+            <description><![CDATA[<article><h1>NAO MAGAZINE</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6a0fe8033e70bab35b2e180fe672124e500d328.png"></article>]]></description>
+            <link>https://thegrid.ai/nem/nao-magazine/index.html</link>
+            <guid isPermaLink="false">c433cf03-dcef-4008-b893-e53a6de10687</guid>
+            <pubDate>Mon, 28 Mar 2016 10:59:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="We have a vision. The New Era Museum Most Wanted Visionaries The excellence in..." src="https://lh3.googleusercontent.com/proxy/J1P9lWjuK62HYzyaBRAAKETRL9SbUvsUFJOH53xOjkBSimWdOyb1Vl8NhbnK6cXsOh1e_f_jis4ThoMK5lsJLm1eo6zp1ntpD_0bO6bvStI=s506">]]></description>
@@ -68,13 +75,6 @@
             <link>http://neweramuseum.org/words/2016/3/27/nem-red-0506-curated-by-lisa-peters</link>
             <guid isPermaLink="false">f00cc425-f0de-475e-9a9e-b97f22641312</guid>
             <pubDate>Sun, 27 Mar 2016 15:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FEATURED HUMANSPHOTOGRAPHERS: Rob Pearso...]]></title>
-            <description><![CDATA[<article><h1>FEATURED HUMANSPHOTOGRAPHERS: Rob Pearso...</h1><p>FEATURED HUMANSPHOTOGRAPHERS: Rob Pearson-Wright‎, Bonobo Stone, Lily In the Rain‎, Stefania Pecchioli, Roger Guetta, Eliza Badoiu‎, Andrea Koerner‎, Robin Robertis‎</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cb3e831d26bc038155b47ab708a4b14dc85a121.jpg"></article>]]></description>
-            <link>http://impossiblehumans.tumblr.com/post/141715102645/featured-humans-photographers-rob</link>
-            <guid isPermaLink="false">10e56b27-7cde-4fe1-b1a1-ea95a7bf52b5</guid>
-            <pubDate>Sat, 26 Mar 2016 12:25:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
