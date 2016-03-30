@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 18:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 18:15:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Impossible Humans Beta Phase Trailer]]></title>
+            <description><![CDATA[<article><h1>Impossible Humans Beta Phase Trailer</h1><p>Impossible Human Beta Phase Teaser An upcoming massive and persistent exhibition by the New Era Museum Impossible Humans by: Patricia Januszkiewicz‎, Cristian Margarita, Lorenka Campos, Roger Guetta, Mariëtte Schrijver‎, Bobbi McMurry, Kate Zari Roberts, Dilshad Corleone, Kerryn Benbow, Nettie Edwards, Arjan van der Horst, Antonio Mojica, Soraya Wilkinson-Wyke, Lisa Peters‎,</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebbd6c80a92d20d07f059703e3e56c1b63494658.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?time_continue=7&amp;v=ya9Qg16FXrM</link>
+            <guid isPermaLink="false">110db483-4f5f-4b68-83f0-c788ca40b20f</guid>
+            <pubDate>Wed, 30 Mar 2016 18:15:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://40.media.tumblr.com/33f887093c3722804b3811e87b84323a/tumblr_nyw2v9dSOs1uf13h7o1_1280.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nem/the-new-era-museum-saint-patrons/index.html</link>
             <guid isPermaLink="false">13f3471c-44f7-4bce-b5eb-cb31a8bff068</guid>
             <pubDate>Tue, 29 Mar 2016 17:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DONATE]]></title>
-            <description><![CDATA[<article><h1>DONATE</h1><p>Proposals, desire and dreams that you would like to see realized for a new world and better society and culture throughout your vision. Each of your images will be the bricks for this New Era.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1141a0f83fc21e3a01c9c4797f7f624ddb70b2da.jpg"></article>]]></description>
-            <link>http://neweramuseum.org/donate/</link>
-            <guid isPermaLink="false">b6db63c6-f738-4eb5-8b84-6a99d1d3117e</guid>
-            <pubDate>Tue, 29 Mar 2016 17:44:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
