@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 18:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 12:26:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Be a NEM Saint Patron]]></title>
+            <description><![CDATA[<article><h1>Be a NEM Saint Patron</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca5ce221ad767b0a4bc4c53a3113f169d115ffe7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nem/be-a-nem-saint-patron/index.html</link>
+            <guid isPermaLink="false">66ecbf3c-73a7-4369-936b-25510bfeca80</guid>
+            <pubDate>Thu, 31 Mar 2016 12:26:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Impossible Humans Beta Phase Trailer]]></title>
             <description><![CDATA[<article><h1>Impossible Humans Beta Phase Trailer</h1><p>Impossible Human Beta Phase Teaser An upcoming massive and persistent exhibition by the New Era Museum Impossible Humans by: Patricia Januszkiewicz‎, Cristian Margarita, Lorenka Campos, Roger Guetta, Mariëtte Schrijver‎, Bobbi McMurry, Kate Zari Roberts, Dilshad Corleone, Kerryn Benbow, Nettie Edwards, Arjan van der Horst, Antonio Mojica, Soraya Wilkinson-Wyke, Lisa Peters‎,</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebbd6c80a92d20d07f059703e3e56c1b63494658.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nem/the-new-era-museum-groupies-and-supporter-lists/index.html</link>
             <guid isPermaLink="false">9babdd4b-026c-4a83-bd2b-87398da0181f</guid>
             <pubDate>Tue, 29 Mar 2016 17:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New Era Museum Saint Patrons]]></title>
-            <description><![CDATA[<article><h1>The New Era Museum Saint Patrons</h1><p>”The only chance some of us have of being called a Saint in this lifetime" (Mark Daniels)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f84ded4dcb8a4425331dab7a4bb26ef6e48a76f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nem/the-new-era-museum-saint-patrons/index.html</link>
-            <guid isPermaLink="false">13f3471c-44f7-4bce-b5eb-cb31a8bff068</guid>
-            <pubDate>Tue, 29 Mar 2016 17:46:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
