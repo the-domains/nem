@@ -4,11 +4,18 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 16:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 17:50:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[NEM - The Founder Artists Reel]]></title>
+            <description><![CDATA[<article><h1>NEM - The Founder Artists Reel</h1><p>"You are the one" The New Era Museum (NEM) Founder Artists Reel</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=zhBaubzAjNo</link>
+            <guid isPermaLink="false">cab2c39e-6eac-4a65-93b3-dcafe0c655c1</guid>
+            <pubDate>Sun, 03 Apr 2016 17:49:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NEM SUBMISSIONS - A Vague Illusion of Normalcy]]></title>
-            <description><![CDATA[<article><h1>NEM SUBMISSIONS - A Vague Illusion of Normalcy</h1><p>Curated by Jane Schultz "Normal is an ideal. But it's not reality. Reality is brutal, it's beautiful, it's every shade between black and white, and it's magical. Yes, magical. Because every now and then, it turns nothing into something."</p><img src="http://static1.squarespace.com/static/50e5b834e4b0837383d7bb18/50e5b834e4b0837383d7bb1f/570147117c65e42063ee7b44/1459702409317/12512409_10208387018300594_2950723561462602761_n.jpg?format=1000w"></article>]]></description>
+            <description><![CDATA[<article><h1>NEM SUBMISSIONS - A Vague Illusion of Normalcy</h1><p>Curated by Jane Schultz "Normal is an ideal. But it's not reality. Reality is brutal, it's beautiful, it's every shade between black and white, and it's magical. Yes, magical. Because every now and then, it turns nothing into something."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d14a3c1c85b11243d3fdc5fde035d7860e1431f9.jpg"></article>]]></description>
             <link>http://neweramuseum.org/words/2016/4/3/nem-submissions-a-vague-illusion-of-normalcy</link>
             <guid isPermaLink="false">2504b4c5-2903-4552-b14b-6ffe4c289ec0</guid>
             <pubDate>Sun, 03 Apr 2016 16:54:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://impossiblehumans.tumblr.com/post/141965654820/featured-humans-photographers-roger</link>
             <guid isPermaLink="false">0bb57c0e-4a44-4090-8148-a1746f22801f</guid>
             <pubDate>Wed, 30 Mar 2016 18:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FEATURED HUMANSPHOTOGRAPHERS: Roger Guet...]]></title>
-            <description><![CDATA[<article><h1>FEATURED HUMANSPHOTOGRAPHERS: Roger Guet...</h1><p>FEATURED HUMANSPHOTOGRAPHERS: Roger Guetta, Isabel Afonso‎, Godefroy Besnehard‎, Mota Isfil‎, Sukru Mehmet Omur‎, Igor Belan Boban‎ and Giuseppe Iannicelli‎</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eccf36fc1c41a4728564ddb1a3aa4e11b2ab733f.jpg"></article>]]></description>
-            <link>http://impossiblehumans.tumblr.com/post/141965654820/featured-humans-photographers-roger</link>
-            <guid isPermaLink="false">b187162b-d0fc-441c-856b-3423ce75baee</guid>
-            <pubDate>Wed, 30 Mar 2016 18:10:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
