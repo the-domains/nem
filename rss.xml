@@ -4,11 +4,18 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 17:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 20:42:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Mobiography Magazine Is Three - New Issue Out Now]]></title>
+            <description><![CDATA[<article><h1>Mobiography Magazine Is Three - New Issue Out Now</h1><p>The latest and third anniversary issue of the Mobiography Magazine has just been release onto the Apple app store and Google Play. The last three years have flown by and through it I have had the honour of speaking to many talented mobile photographers and app developers, as well as making many new friends along the way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6de7aad0c12326063555ad23612668bc0df5f11c.jpg"></article>]]></description>
+            <link>http://www.mobiography.net/photography-news-views/mobiography-magazine-issue-24/</link>
+            <guid isPermaLink="false">0719859a-bac7-4c85-9a46-48540d127359</guid>
+            <pubDate>Sun, 03 Apr 2016 20:42:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NEM - The Founder Artists Reel]]></title>
-            <description><![CDATA[<article><h1>NEM - The Founder Artists Reel</h1><p>"You are the one" The New Era Museum (NEM) Founder Artists Reel</p></article>]]></description>
+            <description><![CDATA[<article><h1>NEM - The Founder Artists Reel</h1><p>"You are the one" The New Era Museum (NEM) Founder Artists Reel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1ddfdb82cd9ed2d16cb905dd1cfda6ba0779284.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=zhBaubzAjNo</link>
             <guid isPermaLink="false">cab2c39e-6eac-4a65-93b3-dcafe0c655c1</guid>
             <pubDate>Sun, 03 Apr 2016 17:49:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://impossiblehumans.tumblr.com/image/134589097235</link>
             <guid isPermaLink="false">0c0fc57d-ec24-45f2-ba00-abf9b106e333</guid>
             <pubDate>Wed, 30 Mar 2016 18:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://41.media.tumblr.com/930fde7dab865743a7ad9dc970754f52/tumblr_o4v63sArF41uf13h7o7_1280.jpg">]]></description>
-            <link>http://impossiblehumans.tumblr.com/post/141965654820/featured-humans-photographers-roger</link>
-            <guid isPermaLink="false">0bb57c0e-4a44-4090-8148-a1746f22801f</guid>
-            <pubDate>Wed, 30 Mar 2016 18:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
