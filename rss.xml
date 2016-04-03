@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 13:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 16:55:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NEM SUBMISSIONS - A Vague Illusion of Normalcy]]></title>
+            <description><![CDATA[<article><h1>NEM SUBMISSIONS - A Vague Illusion of Normalcy</h1><p>Curated by Jane Schultz "Normal is an ideal. But it's not reality. Reality is brutal, it's beautiful, it's every shade between black and white, and it's magical. Yes, magical. Because every now and then, it turns nothing into something."</p><img src="http://static1.squarespace.com/static/50e5b834e4b0837383d7bb18/50e5b834e4b0837383d7bb1f/570147117c65e42063ee7b44/1459702409317/12512409_10208387018300594_2950723561462602761_n.jpg?format=1000w"></article>]]></description>
+            <link>http://neweramuseum.org/words/2016/4/3/nem-submissions-a-vague-illusion-of-normalcy</link>
+            <guid isPermaLink="false">2504b4c5-2903-4552-b14b-6ffe4c289ec0</guid>
+            <pubDate>Sun, 03 Apr 2016 16:54:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Most Wanted Visionaries - Apr. 2016]]></title>
             <description><![CDATA[<article><h1>The Most Wanted Visionaries - Apr. 2016</h1><p>By Andrea Bigiarini | The publisher selection</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cc297ddbdb9ac223ba4bb5b1d84b1eed4d3f8a0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://impossiblehumans.tumblr.com/post/141965654820/featured-humans-photographers-roger</link>
             <guid isPermaLink="false">b187162b-d0fc-441c-856b-3423ce75baee</guid>
             <pubDate>Wed, 30 Mar 2016 18:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JAMES CLARKE - SELECTIONS FOR "NEM CLOUDS" 24]]></title>
-            <description><![CDATA[<article><h1>JAMES CLARKE - SELECTIONS FOR "NEM CLOUDS" 24</h1><p>THESE ARE THE 8 ENTRIES SELECTED BY JAMES CLARKE, CURATOR OF THE "NEM CLOUDS" PHOTO-ACTION ON EYEEM. JAMES CLARKE - NEM FOUNDER ARTIST AND CURATOR OF "NEM CLOUDS" SELECTED ARTWORKS BY: Gianluca Ricoveri (@gianlucaricoveri), Antonio Desideri (@deslan66), Vanessa Vox (@VanessaVox), Cedric Blanchon (@Cedricblanchon), Jed69 (@jamesdrummond16), The Vanished (@chetherevolutionary), Jim Lambert (@jclambert), €R€NDIRA (@AlmaLunA).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cccdef85185f18f7bb67949fbadea825b3027f1.jpg"></article>]]></description>
-            <link>http://neweramuseum.org/words/2015/3/11/james-clarke-selections-for-nem-clouds-24</link>
-            <guid isPermaLink="false">83681ef5-66dd-4bbe-ab75-8d5468fb68ca</guid>
-            <pubDate>Wed, 30 Mar 2016 17:53:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
