@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://neweramuseum.org/words/2016/4/7/nem-self-44-brett-chenoweth-selection'
 title: NEM Self 44 - Brett Chenoweth selection
-datePublished: '2016-04-07T15:57:07.847Z'
-dateModified: '2016-04-07T14:03:38.899Z'
+datePublished: '2016-04-07T16:02:02.029Z'
+dateModified: '2016-04-07T15:59:15.652Z'
 sourcePath: _posts/2016-04-07-nem-self-44-brett-chenoweth-selection.md
 published: true
 inFeed: true
