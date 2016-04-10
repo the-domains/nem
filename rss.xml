@@ -4,8 +4,14 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 19:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 19:19:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/groups/nemhipstamatic/?pnref=story</link>
+            <guid isPermaLink="false">d421425a-56fa-4f40-ac5b-631d3407e20a</guid>
+            <pubDate>Sun, 10 Apr 2016 19:18:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.facebook.com/groups/950439155063243/?pnref=story</link>
@@ -65,13 +71,6 @@
             <link>http://www.mobiography.net/photography-news-views/mobiography-magazine-issue-24/</link>
             <guid isPermaLink="false">0719859a-bac7-4c85-9a46-48540d127359</guid>
             <pubDate>Sun, 03 Apr 2016 20:42:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEM - The Founder Artists Reel]]></title>
-            <description><![CDATA[<article><h1>NEM - The Founder Artists Reel</h1><p>"You are the one" The New Era Museum (NEM) Founder Artists Reel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1ddfdb82cd9ed2d16cb905dd1cfda6ba0779284.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=zhBaubzAjNo</link>
-            <guid isPermaLink="false">cab2c39e-6eac-4a65-93b3-dcafe0c655c1</guid>
-            <pubDate>Sun, 03 Apr 2016 17:49:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
