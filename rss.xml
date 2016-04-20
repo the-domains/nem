@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 21:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 19:46:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NEM Minimalism 01 - Invited curator N°1 - Clint Cline]]></title>
+            <description><![CDATA[<article><h1>NEM Minimalism 01 - Invited curator N°1 - Clint Cline</h1><p>A great selection and review by Clint Cline - NEM Founder Artist More than a simple curation but a great lesson on Minimalism. Thank you Clint. Clint Cline - NEM Founder Artist Folks, this was hard. Beginning with 54 selects, culled then to 28, I was faced with the brutal task of paring the final cut to only eight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87c8edf069a902bb0df459fc21a956bf27f0f19b.jpg"></article>]]></description>
+            <link>http://neweramuseum.org/words/2016/4/20/nem-minimalism-01-invited-curator-n1-clint-cline</link>
+            <guid isPermaLink="false">ea8678fa-1ab0-4fde-b0c3-360c336ca9e0</guid>
+            <pubDate>Wed, 20 Apr 2016 19:45:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NEM RED 08 - Lisa Peters selection]]></title>
             <description><![CDATA[<article><h1>NEM RED 08 - Lisa Peters selection</h1><p>LISA PETERS - RED FOUNDER AND NEM ARTIST RED Lovers, I'm so elated to bring you NEM RED Feature 8.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1d21851b7914808383401845333368092d6ad86.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://impossiblehumans.tumblr.com/post/142421848615/featured-humans-photographers-marguerite</link>
             <guid isPermaLink="false">45736f72-7000-48c1-8eef-ddcfe38fa665</guid>
             <pubDate>Thu, 07 Apr 2016 20:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEM Self 44 - Brett Chenoweth selection]]></title>
-            <description><![CDATA[<article><h1>NEM Self 44 - Brett Chenoweth selection</h1><p>BRETT CHENOWETH - NEW ERA MUSEUM FOUNDER AND NEM SELF CURATOR These are the 8 selected artworks by Brett Chenoweth for NEM Self 41 ARTWORKS BY: Robin Robertis, Siclaly M. Santiago-Leon, Ile Mont, Emma Amar, Clarisse Debout, Katie Teixeira, Vicki Cooper, and Alexis Rotella. NEM SELF FACEBOOK GROUP</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55e64f456327984e562aa621aba4a49aeb0bf5b8.jpg"></article>]]></description>
-            <link>http://neweramuseum.org/words/2016/4/7/nem-self-44-brett-chenoweth-selection</link>
-            <guid isPermaLink="false">773483ea-1eeb-4878-9830-85a137b4edb6</guid>
-            <pubDate>Thu, 07 Apr 2016 15:57:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
