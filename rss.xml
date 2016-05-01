@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 14:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 22:21:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NEM P.U.R.E Selection 08 by Lisa Peters & Aldo Pacheco]]></title>
+            <description><![CDATA[<article><h1>NEM P.U.R.E Selection 08 by Lisa Peters & Aldo Pacheco</h1><p>Curators: Lisa Peters and Aldo Pacheco LISA PETERS - NEM ARTIST & ALDO PACHECO - NEM FOUNDER ARTIST - CURATORS OF NEM P.U.R.E. SELECTED ARTWORKS BY: Linda Sbath, Allyson Marie, Edward Santos, Basia Łucka, José Pinto Antunes, Joanne Mariol, Dani Salvadori and Kathy Clay‎ Linda Sbath. Allyson Marie. Edward Santos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7823fb1d70c9602acac093c5cfb518d71f64f2af.jpg"></article>]]></description>
+            <link>http://neweramuseum.org/words/2016/5/1/nem-pure-selection-08-by-lisa-peters-aldo-pacheco</link>
+            <guid isPermaLink="false">709ce657-2f0c-47b4-baea-2037e0dad090</guid>
+            <pubDate>Sun, 01 May 2016 22:21:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FEATURED HUMANS - PHOTOGRAPHERS: Kiara R...]]></title>
             <description><![CDATA[<article><h1>FEATURED HUMANS - PHOTOGRAPHERS: Kiara R...</h1><p>FEATURED HUMANS - PHOTOGRAPHERS: Kiara Rossi Consolandi‎, Kate Zari Roberts‎, Betti Bettina‎, Mariëtte Schrijver‎, Allyson Marie‎, Connie Gardner Rosenthal‎</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22ce04e5ff4a84d901bddbb8f9574cc9054954fe.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://neweramuseum.org/words/2016/4/20/nem-minimalism-01-invited-curator-n1-clint-cline</link>
             <guid isPermaLink="false">ea8678fa-1ab0-4fde-b0c3-360c336ca9e0</guid>
             <pubDate>Wed, 20 Apr 2016 19:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEM RED 08 - Lisa Peters selection]]></title>
-            <description><![CDATA[<article><h1>NEM RED 08 - Lisa Peters selection</h1><p>LISA PETERS - RED FOUNDER AND NEM ARTIST RED Lovers, I'm so elated to bring you NEM RED Feature 8.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1d21851b7914808383401845333368092d6ad86.jpg"></article>]]></description>
-            <link>http://neweramuseum.org/words/2016/4/19/nem-red-08-lisa-peters-selection</link>
-            <guid isPermaLink="false">110abc74-ee3b-4f1e-8020-613b3a8b779c</guid>
-            <pubDate>Tue, 19 Apr 2016 21:02:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
