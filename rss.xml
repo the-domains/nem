@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 12:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 11:31:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NEM Instant 01 - Temporary Curation]]></title>
+            <description><![CDATA[<article><h1>NEM Instant 01 - Temporary Curation</h1><p>DIETER GAEBEL - NEM FOUNDER ARTIST AND NEM INSTANT CURATOR Sending best wishes for a speedy recovery to Dieter we publish the first selection of NEM InstantDieter get back soon !</p><img src="http://static1.squarespace.com/static/50e5b834e4b0837383d7bb18/50e5b834e4b0837383d7bb1f/572f58e6356fb0592517de29/1462721597677/12924612_10154036122602836_6942427184395299696_n.jpg?format=1000w"></article>]]></description>
+            <link>http://neweramuseum.org/words/2016/5/8/nem-instant-01-temporary-curation</link>
+            <guid isPermaLink="false">6a01aa58-b38e-450d-8a65-d9cc84520835</guid>
+            <pubDate>Tue, 10 May 2016 11:30:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Impossible Humans the Unexpected Happening - Closing]]></title>
             <description><![CDATA[<article><h1>Impossible Humans the Unexpected Happening - Closing</h1><p>The closing moment of the Impossible Humans Unexpected Happening - March 12th 2016 - Auditorium parco della Musica - ROME - Italy Pollock Project and New Era Museum Artists</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bac09792a3f3b21ef1b375fa864fd7122ece7d2b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://neweramuseum.org/words/2016/4/27/nem-self-45-brett-chenoweth-selection</link>
             <guid isPermaLink="false">0631ad3a-5aed-47b6-a10c-bf1d0bfbb18e</guid>
             <pubDate>Wed, 27 Apr 2016 13:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Impossible Humans Vittorio Veneto Film Festival]]></title>
-            <description><![CDATA[<article><h1>Impossible Humans Vittorio Veneto Film Festival</h1><p>ProShow Web Video Slideshow</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dff80a95f58eaa594ac0414f1f4ffa978e00c2f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=0144sz-vbhY</link>
-            <guid isPermaLink="false">fdada9fe-3203-4409-bd52-03c2b60e1d18</guid>
-            <pubDate>Mon, 25 Apr 2016 19:39:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
