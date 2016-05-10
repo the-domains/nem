@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 16:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 18:45:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NEM Streets 03 - Curated by Emanuel Faria]]></title>
+            <description><![CDATA[<article><h1>NEM Streets 03 - Curated by Emanuel Faria</h1><p>THESE ARE THE 8 ENTRIES SELECTED BY EMANUEL FARIA IN THE "NEM STREETS" FACEBOOK GROUP EMANUEL FARIA - NEM FOUNDER ARTIST AND CURATOR FOR "NEM STREETS." Street photography it's a story telling, a narrative that immerses us into what is life. And this week there was great stories.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8955999b0c91195d55a9e562113fefad935d998e.jpg"></article>]]></description>
+            <link>http://neweramuseum.org/words/2016/5/10/nem-streets-03-curated-by-emanuel-faria</link>
+            <guid isPermaLink="false">e1e112b1-291b-423d-93c6-7cae9ecf88eb</guid>
+            <pubDate>Tue, 10 May 2016 18:45:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pollock Project - The Unexpected Happening]]></title>
             <description><![CDATA[<article><h1>Pollock Project - The Unexpected Happening</h1><p>Un progetto nato da un'idea di Marco Testoni e l'artista visuale Andrea Bigiarini che prevede, in differenti location, 4 eventi simultanei all'insegna della Mobile Art. Un concerto, una mostra, un contest ed un set fotografico</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab5f355259f5d4ca46f2ec3a9c6148d906f08b7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://neweramuseum.org/words/2016/5/1/nem-karma-42-selection-by-aldo-pacheco</link>
             <guid isPermaLink="false">baa37eae-f86f-4ffc-a487-2aa554f235fb</guid>
             <pubDate>Sun, 01 May 2016 22:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEM P.U.R.E Selection 08 by Lisa Peters & Aldo Pacheco]]></title>
-            <description><![CDATA[<article><h1>NEM P.U.R.E Selection 08 by Lisa Peters & Aldo Pacheco</h1><p>Curators: Lisa Peters and Aldo Pacheco LISA PETERS - NEM ARTIST & ALDO PACHECO - NEM FOUNDER ARTIST - CURATORS OF NEM P.U.R.E. SELECTED ARTWORKS BY: Linda Sbath, Allyson Marie, Edward Santos, Basia Łucka, José Pinto Antunes, Joanne Mariol, Dani Salvadori and Kathy Clay‎ Linda Sbath. Allyson Marie. Edward Santos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7823fb1d70c9602acac093c5cfb518d71f64f2af.jpg"></article>]]></description>
-            <link>http://neweramuseum.org/words/2016/5/1/nem-pure-selection-08-by-lisa-peters-aldo-pacheco</link>
-            <guid isPermaLink="false">709ce657-2f0c-47b4-baea-2037e0dad090</guid>
-            <pubDate>Sun, 01 May 2016 22:21:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
