@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 11:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 16:37:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pollock Project - The Unexpected Happening]]></title>
+            <description><![CDATA[<article><h1>Pollock Project - The Unexpected Happening</h1><p>Un progetto nato da un'idea di Marco Testoni e l'artista visuale Andrea Bigiarini che prevede, in differenti location, 4 eventi simultanei all'insegna della Mobile Art. Un concerto, una mostra, un contest ed un set fotografico</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab5f355259f5d4ca46f2ec3a9c6148d906f08b7.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=TrjTpc6T1tU</link>
+            <guid isPermaLink="false">457495ea-fa56-4472-a768-743d2e1cbe38</guid>
+            <pubDate>Tue, 10 May 2016 16:36:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://static1.squarespace.com/static/50e5b834e4b0837383d7bb18/t/572def869f72664ead51f2d7/1462628236910/?format=1500w">]]></description>
@@ -68,13 +75,6 @@
             <link>http://neweramuseum.org/words/2016/5/1/nem-pure-selection-08-by-lisa-peters-aldo-pacheco</link>
             <guid isPermaLink="false">709ce657-2f0c-47b4-baea-2037e0dad090</guid>
             <pubDate>Sun, 01 May 2016 22:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FEATURED HUMANS - PHOTOGRAPHERS: Kiara R...]]></title>
-            <description><![CDATA[<article><h1>FEATURED HUMANS - PHOTOGRAPHERS: Kiara R...</h1><p>FEATURED HUMANS - PHOTOGRAPHERS: Kiara Rossi Consolandi‎, Kate Zari Roberts‎, Betti Bettina‎, Mariëtte Schrijver‎, Allyson Marie‎, Connie Gardner Rosenthal‎</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22ce04e5ff4a84d901bddbb8f9574cc9054954fe.jpg"></article>]]></description>
-            <link>http://impossiblehumans.tumblr.com/post/143480465365/featured-humans-photographers-kiara-rossi</link>
-            <guid isPermaLink="false">110a885a-2a82-42a3-a4ce-2156e9f15f86</guid>
-            <pubDate>Wed, 27 Apr 2016 14:12:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
