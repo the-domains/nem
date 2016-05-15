@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://neweramuseum.org/words/2016/5/15/nem-karma-43-selection-by-aldo-pacheco'
 title: NEM Karma 43 - Selection by Aldo Pacheco
-datePublished: '2016-05-15T11:32:50.285Z'
-dateModified: '2016-05-15T11:32:50.103Z'
+datePublished: '2016-05-15T11:32:53.411Z'
+dateModified: '2016-05-15T11:32:34.075Z'
 starred: false
 sourcePath: _posts/2016-05-15-nem-karma-43-selection-by-aldo-pacheco.md
 inFeed: true
