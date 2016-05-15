@@ -1,20 +1,4 @@
-name: The New Era Museum Grid
-favicon: null
-layout_spectrum: 0.48822
 typography_spectrum: 0.28996
-title: The New Era Museum Grid
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#674853'
@@ -26,4 +10,24 @@ color:
   lightness: 0.1875
   saturation: 0.749537359457463
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.48822
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: The New Era Museum
+  email: theneweramuseum@gmail.com
+  url: 'http://neweramuseum.org'
+name: The New Era Museum Grid
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The New Era Museum Grid
 purpose: []
