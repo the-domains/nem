@@ -23,11 +23,12 @@ author:
   name: The New Era Museum
   email: theneweramuseum@gmail.com
   url: 'http://neweramuseum.org'
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bb5f9d-12a3-4dd9-99fd-a05a759ea80d.jpg'
 name: The New Era Museum Grid
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b7046d-ed0f-4c09-b780-42479e2d2af2.jpg'
 title: The New Era Museum Grid
 purpose: []
