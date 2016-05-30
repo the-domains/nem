@@ -1,34 +1,46 @@
-typography_spectrum: 0.28996
+title: The New Era Museum Grid
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.6770658
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b7046d-ed0f-4c09-b780-42479e2d2af2.jpg'
+author:
+  url: 'http://neweramuseum.org'
+  name: The New Era Museum
+  email: theneweramuseum@gmail.com
+name: The New Era Museum Grid
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.1875
+  saturation: 0.749537359457463
   brandColors:
     - '#674853'
     - '#ffffff'
     - '#b1b28d'
     - '#736258'
     - '#9d9181'
-  brandStrength: 0.1875
   lightness: 0.1875
-  saturation: 0.749537359457463
   rhythmicContrast: 0.25
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.48822
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: The New Era Museum
-  email: theneweramuseum@gmail.com
-  url: 'http://neweramuseum.org'
+typography_spectrum: 0.5876897
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bb5f9d-12a3-4dd9-99fd-a05a759ea80d.jpg'
-name: The New Era Museum Grid
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b7046d-ed0f-4c09-b780-42479e2d2af2.jpg'
-title: The New Era Museum Grid
-purpose: []
