@@ -4,15 +4,8 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 12:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 12:31:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[NEM Silence 01 - Curated by Allyson Marie]]></title>
-            <description><![CDATA[<article><h1>NEM Silence 01 - Curated by Allyson Marie</h1><p>ALLYSON MARIE - NEM SILENCE CURATOR NEM Silence is off to a great start, and I want to thank all of you for contributing such soulful images that scream silence. It is a very hard task to choose only 8, I wanted to feature all of you.</p><img src="http://static1.squarespace.com/static/50e5b834e4b0837383d7bb18/50e5b834e4b0837383d7bb1f/574c1b1140261d759747ad2c/1464606103374/13315655_1696718723911317_2740309502445144059_n.jpg?format=1000w"></article>]]></description>
-            <link>http://neweramuseum.org/words/2016/5/30/nem-silence-01-curated-by-allyson-marie</link>
-            <guid isPermaLink="false">11046d3a-1776-4466-b164-c4caad87f77c</guid>
-            <pubDate>Fri, 03 Jun 2016 12:29:48 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[NEM RED 11 - Lisa Peters selection]]></title>
             <description><![CDATA[<article><h1>NEM RED 11 - Lisa Peters selection</h1><p>LISA PETERS - RED FOUNDER AND NEM ARTIST NEM RED Feature 11 is hot! Bigger than life, passionate, daring, pushing ever deeper into the heart of RED.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09d0f29fd0c20b2a7b7158c7cf3260cc7fa76f61.jpg"></article>]]></description>
@@ -22,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[NEM CLOUDS 34 - James Clarke selection]]></title>
-            <description><![CDATA[<article><h1>NEM CLOUDS 34 - James Clarke selection</h1><p>JAMES CLARKE - NEM FOUNDER ARTIST & NEM CLOUDS CURATOR Round #34 - we present to you the top 11 Cloud Pics chosen by James Clarke from the past 2-weeks of submissions to the Facebook NEM Clouds Group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a6e8069bdece64f06076129248f17cd6c40a10.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>NEM CLOUDS 34 - James Clarke selection</h1><p>JAMES CLARKE - NEM FOUNDER ARTIST & NEM CLOUDS CURATOR Round #34 - we present to you the top 11 Cloud Pics chosen by James Clarke from the past 2-weeks of submissions to the Facebook NEM Clouds Group.</p><img src="http://static1.squarespace.com/static/50e5b834e4b0837383d7bb18/50e5b834e4b0837383d7bb1f/574c18318259b5de67371cac/1464605173417/13323443_10209312595834960_4406283429575098746_o.jpg?format=1000w"></article>]]></description>
             <link>http://neweramuseum.org/words/2016/5/30/nem-clouds-34-james-clarke-selection</link>
             <guid isPermaLink="false">a37f93be-c515-408c-a438-a5cc493d0074</guid>
             <pubDate>Fri, 03 Jun 2016 12:29:44 GMT</pubDate>
@@ -75,6 +68,13 @@
             <link>http://neweramuseum.org/words/2016/5/16/nem-clouds-33-the-james-clarke-selection</link>
             <guid isPermaLink="false">dba978d3-7fef-49ca-b50d-8ed7af566349</guid>
             <pubDate>Mon, 16 May 2016 12:25:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NEM Black&White 15 - Selection by Tracy J.Thomas]]></title>
+            <description><![CDATA[<article><h1>NEM Black&White 15 - Selection by Tracy J.Thomas</h1><p>TRACY J THOMAS - NEM FOUNDER ARTIST AND CURATOR FOR "NEM BLACK&WHITE." SELECTED ARTWORKS BY: Michelle Robinson, Tim Creamer, Liliana Schwitter, Mimi Svanberg, Roger Guetta, Leon Williams, Erik Elferink, and Steve Mark. Michelle Robinson. Tim Creamer. Liliana Schwitter. Mimi Svanberg. Roger Guetta. Leon Williams. Erik Elferink. Steve Mark.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46c2935981cdda435493fa38e0bf61595b3649e2.jpg"></article>]]></description>
+            <link>http://neweramuseum.org/words/2016/5/16/nem-blackwhite-15-selection-by-tracy-jthomas</link>
+            <guid isPermaLink="false">3fe20ae9-572b-44e5-af64-4afa0e7c3857</guid>
+            <pubDate>Mon, 16 May 2016 12:25:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
