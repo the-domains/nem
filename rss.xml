@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 13:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 18:17:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mentions]]></title>
+            <description><![CDATA[<article><h1>Mentions</h1><p>Doctoral Thesis on iPhoneography and New Era Museum by Ginevra Langella.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f771d39-b679-468f-a686-37e4d095b0ef.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nem/mentions/index.html</link>
+            <guid isPermaLink="false">9cddf1b5-637f-49f4-9b92-0a13e715c75d</guid>
+            <pubDate>Mon, 04 Jul 2016 18:16:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NEM Hipstamatic 05 - Armineh Hovanesian Selection]]></title>
             <description><![CDATA[<article><h1>NEM Hipstamatic 05 - Armineh Hovanesian Selection</h1><p>Armineh Hovanesian - NEM Artist and curator of NEM Hipstamatic. SELECTED HIPSTAS BY: Lydia Cassatt, Shawn Moore, Headattacks Crealitys, Oleg Akilov, Maurizio Zanetti, Cat Morris, Rino Rossi and Anita Elle. NEM HIPSTAMATIC FACEBOOK GROUP</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://neweramuseum.org/words/2016/6/16/nem-hipstamatic-04-armineh-hovanesian-selection</link>
             <guid isPermaLink="false">fb7465dc-30de-4c07-914d-6880b0a2d107</guid>
             <pubDate>Thu, 16 Jun 2016 12:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEM Streets 08 - Curated by Emanuel Faria]]></title>
-            <description><![CDATA[<article><h1>NEM Streets 08 - Curated by Emanuel Faria</h1><p>THESE ARE THE 8 ENTRIES SELECTED BY EMANUEL FARIA IN THE "NEM STREETS" FACEBOOK GROUP EMANUEL FARIA - NEM FOUNDER ARTIST AND CURATOR FOR "NEM STREETS." SELECTED ARTWORKS BY: Tommy Vee, Giulia Baita, Roger Guetta, René Valencia, Erik Elferink, Clint Cline, Dominique Torrent, Joshua Sarinana. NEM STREETS FACEBOOK GROUP</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dae1ccb756b52f1f977ed09aa3ffee35/croprotate.jpg?cropheight=929&cropwidth=928&degrees=0&input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F50e5b834e4b0837383d7bb18%2F50e5b834e4b0837383d7bb1f%2F57628bcfe58c6298f387f4b1%2F1466076631485%2F13427827_10209498922381070_995533247558742140_n.jpg%3Fformat%3D1000w&x=16&y=16"></article>]]></description>
-            <link>http://neweramuseum.org/words/2016/6/16/nem-streets-08-curated-by-emanuel-faria</link>
-            <guid isPermaLink="false">e459c880-7460-4033-a4f6-18e4a756869b</guid>
-            <pubDate>Thu, 16 Jun 2016 12:01:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
