@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 18:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 13:52:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NEM Hipstamatic 05 - Armineh Hovanesian Selection]]></title>
+            <description><![CDATA[<article><h1>NEM Hipstamatic 05 - Armineh Hovanesian Selection</h1><p>Armineh Hovanesian - NEM Artist and curator of NEM Hipstamatic. SELECTED HIPSTAS BY: Lydia Cassatt, Shawn Moore, Headattacks Crealitys, Oleg Akilov, Maurizio Zanetti, Cat Morris, Rino Rossi and Anita Elle. NEM HIPSTAMATIC FACEBOOK GROUP</p></article>]]></description>
+            <link>http://neweramuseum.org/words/2016/7/4/nem-hipstamatic-05-armineh-hovanesian-selection</link>
+            <guid isPermaLink="false">80a37f81-9666-447c-a24f-a9f4a672bc93</guid>
+            <pubDate>Mon, 04 Jul 2016 13:51:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NEM black&white #16 - Tracy J.Thomas Selection]]></title>
             <description><![CDATA[<article><h1>NEM black&white #16 - Tracy J.Thomas Selection</h1><p>TRACY J THOMAS - NEM FOUNDER ARTIST AND CURATOR FOR "NEM BLACK&WHITE." SELECTED ARTWORKS BY: Johnny Espirito Santo Ecko, Clarisse Debout, Michelle Robinson, Jurgen Onland, Kristie Benoit, Erik Wennekes, Dominique Torrent, and Kathy Clay NEM BLACK&WHITE FACEBOOK GROUP</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://neweramuseum.org/words/2016/6/16/nem-streets-08-curated-by-emanuel-faria</link>
             <guid isPermaLink="false">e459c880-7460-4033-a4f6-18e4a756869b</guid>
             <pubDate>Thu, 16 Jun 2016 12:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEM RED 12 - Lisa Peters selection]]></title>
-            <description><![CDATA[<article><h1>NEM RED 12 - Lisa Peters selection</h1><p>LISA PETERS - RED FOUNDER AND NEM ARTIST NEM RED Feature 12 has an indulgent sense of longing and desire....for that which has passed and that which has yet to come. SELECTED ARTWORKS BY: Clint Cline, Tess Lulu, Eleni Gemeni, Jo Sullivan, Ferringer Jim, Aldo, Lou O'Leary, and Claudia Contreras.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b76d74bf06839bfd8c17625b039efce76e613b12.jpg"></article>]]></description>
-            <link>http://neweramuseum.org/words/2016/6/14/nem-red-12-lisa-peters-selection</link>
-            <guid isPermaLink="false">d1fc7403-870f-404c-a63c-19377d768423</guid>
-            <pubDate>Tue, 14 Jun 2016 21:21:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
