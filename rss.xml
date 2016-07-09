@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 20:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 13:51:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NEM Streets 11 - Curated by Emanuel Faria]]></title>
+            <description><![CDATA[<article><h1>NEM Streets 11 - Curated by Emanuel Faria</h1><p>THESE ARE THE 8 ENTRIES SELECTED BY EMANUEL FARIA IN THE "NEM STREETS" FACEBOOK GROUP EMANUEL FARIA - NEM FOUNDER ARTIST AND CURATOR FOR "NEM STREETS." SELECTED ARTWORKS BY: Fréderic Mahy, Maurizio Zanetti,Basia Łucka, Ton Sunyalux, Jo Sullivan, Florence Oliver, Joshua Sarinana, Violet Martins. NEM STREETS FACEBOOK GROUP</p></article>]]></description>
+            <link>http://neweramuseum.org/words/2016/7/9/nem-streets-11-curated-by-emanuel-faria</link>
+            <guid isPermaLink="false">0a49fd09-7698-42fc-9603-3649c336ec46</guid>
+            <pubDate>Sat, 09 Jul 2016 13:51:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mentions]]></title>
             <description><![CDATA[<article><h1>Mentions</h1><p>The New Era Museum </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/182955f6-ebd0-4cb2-9b9a-a164a86e3d7c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://neweramuseum.org/words/2016/6/23/nem-streets-09-curated-by-emanuel-faria</link>
             <guid isPermaLink="false">0ad5c403-ec3c-464c-9cce-a53351766c5f</guid>
             <pubDate>Thu, 23 Jun 2016 19:31:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEM Karma 45 - Selection by Aldo Pacheco]]></title>
-            <description><![CDATA[<article><h1>NEM Karma 45 - Selection by Aldo Pacheco</h1><p>These are the 8 selected artworks by Aldo Pacheco for NEM Karma 45 ALDO PACHECO NEM FOUNDER ARTIST AND CURATOR FOR NEM KARMA SELECTED ARTWOKS BY: Linda M. Toki, Debara Splendorio, Andrea Gessat, Sylvie Prevot, Vicki Cooper, Marsha Estes, Gina Costa, Manuela Matos Monteiro. NEM KARMA FACEBOOK GROUP</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7bb2ab6b1024c2c159e91f87a9cbe26/noop.jpg?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F50e5b834e4b0837383d7bb18%2F50e5b834e4b0837383d7bb1f%2F5762869c414fb5a52ec0facc%2F1466075472676%2F13432313_10153492937012035_3735811315982376197_n.jpg%3Fformat%3D1000w"></article>]]></description>
-            <link>http://neweramuseum.org/words/2016/6/16/nem-karma-45-selection-by-aldo-pacheco</link>
-            <guid isPermaLink="false">e78dc633-32c4-49c2-bcac-2dcd5bc0b2f8</guid>
-            <pubDate>Thu, 16 Jun 2016 12:01:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
