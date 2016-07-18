@@ -1,10 +1,11 @@
 title: The New Era Museum Grid
 cta:
-  domain: null
-  version: null
   bucket: null
-layout_spectrum: 0.6163575
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b7046d-ed0f-4c09-b780-42479e2d2af2.jpg'
+  version: null
+  domain: null
+layout_spectrum: 0.7529511
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b7046d-ed0f-4c09-b780-42479e2d2af2.jpg
 author:
   url: 'http://neweramuseum.org'
   name: The New Era Museum
@@ -12,9 +13,9 @@ author:
 name: The New Era Museum Grid
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -42,5 +43,6 @@ color:
     - '#9d9181'
   lightness: 0.1875
   rhythmicContrast: 0.25
-typography_spectrum: 0.6112985
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bb5f9d-12a3-4dd9-99fd-a05a759ea80d.jpg'
+typography_spectrum: 0.5387858
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bb5f9d-12a3-4dd9-99fd-a05a759ea80d.jpg
