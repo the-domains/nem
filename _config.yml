@@ -3,7 +3,7 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.7529511
+layout_spectrum: 0.30522501934319735
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b7046d-ed0f-4c09-b780-42479e2d2af2.jpg
 author:
@@ -33,16 +33,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.1875
-  saturation: 0.749537359457463
+  brandStrength: 0.06761277676559985
+  saturation: 0.07454189308919013
   brandColors:
-    - '#674853'
-    - '#ffffff'
-    - '#b1b28d'
-    - '#736258'
-    - '#9d9181'
-  lightness: 0.1875
-  rhythmicContrast: 0.25
-typography_spectrum: 0.5387858
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+  lightness: 0.09618587675504386
+  rhythmicContrast: 0.967965091811493
+typography_spectrum: 0.20837744837626815
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bb5f9d-12a3-4dd9-99fd-a05a759ea80d.jpg
