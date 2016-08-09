@@ -4,7 +4,7 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 20:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 20:43:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NEM Landscapes 60 curated by Gianluca Ricoveri]]></title>
@@ -12,6 +12,13 @@
             <link>http://neweramuseum.org/words/2016/8/8/nem-landscapes-60-curated-by-gianluca-ricoveri</link>
             <guid isPermaLink="false">338da2cb-85cd-421d-8b70-a2b8aa17cb6e</guid>
             <pubDate>Tue, 09 Aug 2016 20:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NEM Silence 06 - Curated by Allyson Marie]]></title>
+            <description><![CDATA[<article><h1>NEM Silence 06 - Curated by Allyson Marie</h1><p>ALLYSON MARIE - NEM SILENCE CURATOR SELECTED ARTWORKS: Jane Schultz, Clarisse Debout, Justin Barrett, Ioannis Sidiropoulos, Kristie Benoit, Claude Panneton, Cathrine Halsør, Isabel Afonso. NEM SILENCE FACEBOOK GROUP</p><img src="http://static1.squarespace.com/static/50e5b834e4b0837383d7bb18/50e5b834e4b0837383d7bb1f/57a74550893fc0f0fd8eff61/1470580385508/13906680_1720992061483983_3606611954588163174_n.jpg?format=1000w"></article>]]></description>
+            <link>http://neweramuseum.org/words/2016/8/7/nem-silence-06-curated-by-allyson-marie</link>
+            <guid isPermaLink="false">2c788c1b-a815-43d1-8b1c-b1ad6ff05e25</guid>
+            <pubDate>Tue, 09 Aug 2016 20:42:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NEM Architecture 20 triple features - Curated by Davide Capponi]]></title>
@@ -68,13 +75,6 @@
             <link>http://neweramuseum.org/words/2016/7/19/nem-landscapes-59-curated-by-gianluca-ricoveri</link>
             <guid isPermaLink="false">fcf5da62-cb78-4377-9970-df2536ced3c6</guid>
             <pubDate>Tue, 26 Jul 2016 19:35:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEM P.U.R.E Selection 14 by Lisa Peters & Aldo Pacheco]]></title>
-            <description><![CDATA[<article><h1>NEM P.U.R.E Selection 14 by Lisa Peters & Aldo Pacheco</h1><p>LISA PETERS - NEM ARTIST & ALDO PACHECO - NEM FOUNDER ARTIST - CURATORS OF NEM P.U.R.E. SELECTED ARTWORKS BY: Leon Williams, Mark Daniels, Patricia Januszkiewicz, Kristie Benoit, Barbara Nebel, Michel Walther Crine, José Pinto Antunes and Edward Santos NEM PURE FACEBOOK GROUP</p></article>]]></description>
-            <link>http://neweramuseum.org/words/2016/7/25/nem-pure-selection-14-by-lisa-peters-aldo-pacheco</link>
-            <guid isPermaLink="false">88405e50-b02f-4203-bbaa-e2c9423963f0</guid>
-            <pubDate>Tue, 26 Jul 2016 19:34:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
