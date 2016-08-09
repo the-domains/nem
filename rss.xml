@@ -4,8 +4,15 @@
         <description><![CDATA[The New Era Museum Grid]]></description>
         <link>https://thegrid.ai/nem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 20:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 20:50:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The FIPA Most Wanted Visionaries Exhibition]]></title>
+            <description><![CDATA[<article><h1>The FIPA Most Wanted Visionaries Exhibition</h1><p>THE ARTWORKS Life under the surface" - Angie Johnson "Upload" - Robin Robertis "Nature Girl" - Diana Nicholette Jeon "Untitled" - Brett Chenoweth "Somerset House Nelson and Stamp Staircases" - Vivi Hanson "Ostinato" - Captain Flam "She was an escalator rule breaker" - Janine Graf "The Tax Office" - Eddie X "Irina" - AlexVisage iPhoneography "Untitled" - Jiri Dvorak "Not there but at least the atmosphere is interesting to me."</p></article>]]></description>
+            <link>https://youtu.be/z6VKAudpvsA</link>
+            <guid isPermaLink="false">a0e03885-5c44-4642-bf11-f999fbc5b840</guid>
+            <pubDate>Tue, 09 Aug 2016 20:49:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NEM Landscapes 60 curated by Gianluca Ricoveri]]></title>
             <description><![CDATA[<article><h1>NEM Landscapes 60 curated by Gianluca Ricoveri</h1><p>GIANLUCA RICOVERI - NEM FOUNDER ARTIST AND CURATOR FOR NEM LANDSCAPES SELECTED ARTWORKS BY: Karen Klinedinst, Giulia Baita,Kate Zari Roberts, Vadim Demjianov, Clarisse Debout, Anndrea Lewis, Lou O'Leary and Marco Pellegrin NEM LANDSCAPES FACEBOOK GROUP</p></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[NEM Silence 06 - Curated by Allyson Marie]]></title>
-            <description><![CDATA[<article><h1>NEM Silence 06 - Curated by Allyson Marie</h1><p>ALLYSON MARIE - NEM SILENCE CURATOR SELECTED ARTWORKS: Jane Schultz, Clarisse Debout, Justin Barrett, Ioannis Sidiropoulos, Kristie Benoit, Claude Panneton, Cathrine Halsør, Isabel Afonso. NEM SILENCE FACEBOOK GROUP</p><img src="http://static1.squarespace.com/static/50e5b834e4b0837383d7bb18/50e5b834e4b0837383d7bb1f/57a74550893fc0f0fd8eff61/1470580385508/13906680_1720992061483983_3606611954588163174_n.jpg?format=1000w"></article>]]></description>
+            <description><![CDATA[<article><h1>NEM Silence 06 - Curated by Allyson Marie</h1><p>ALLYSON MARIE - NEM SILENCE CURATOR SELECTED ARTWORKS: Jane Schultz, Clarisse Debout, Justin Barrett, Ioannis Sidiropoulos, Kristie Benoit, Claude Panneton, Cathrine Halsør, Isabel Afonso. NEM SILENCE FACEBOOK GROUP</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bc52b007bac49d39743a3eeb6a427882/noop.jpg?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F50e5b834e4b0837383d7bb18%2F50e5b834e4b0837383d7bb1f%2F57a74550893fc0f0fd8eff61%2F1470580385508%2F13906680_1720992061483983_3606611954588163174_n.jpg%3Fformat%3D1000w"></article>]]></description>
             <link>http://neweramuseum.org/words/2016/8/7/nem-silence-06-curated-by-allyson-marie</link>
             <guid isPermaLink="false">2c788c1b-a815-43d1-8b1c-b1ad6ff05e25</guid>
             <pubDate>Tue, 09 Aug 2016 20:42:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://neweramuseum.org/words/2016/7/24/nem-red-15-lisa-peters-selection</link>
             <guid isPermaLink="false">4dcf10b0-37db-4dfe-96ad-1a8e9fcf73a3</guid>
             <pubDate>Tue, 26 Jul 2016 19:35:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEM Landscapes 59 curated by Gianluca Ricoveri]]></title>
-            <description><![CDATA[<article><h1>NEM Landscapes 59 curated by Gianluca Ricoveri</h1><p>GIANLUCA RICOVERI - NEM FOUNDER ARTIST AND CURATOR FOR NEM LANDSCAPES Ger van den Elzen, Susan Rennie, Sylvie Prevot, Giuseppe Navone, Antonello Madau, Rad Drew, Tim Creamer and Mariko Klug. NEM LANDSCAPES FACEBOOK GROUP</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/be8d62735965cd908f173529aabcbec0/noop.jpg?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F50e5b834e4b0837383d7bb18%2F50e5b834e4b0837383d7bb1f%2F578e2458c534a550d7ec62fe%2F1468933531654%2F13754462_10208651227430643_5528145841062186802_n.jpg%3Fformat%3D1000w"></article>]]></description>
-            <link>http://neweramuseum.org/words/2016/7/19/nem-landscapes-59-curated-by-gianluca-ricoveri</link>
-            <guid isPermaLink="false">fcf5da62-cb78-4377-9970-df2536ced3c6</guid>
-            <pubDate>Tue, 26 Jul 2016 19:35:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
