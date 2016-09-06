@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T15:09:25.887Z'
+datePublished: '2016-09-02T15:09:30.738Z'
 sourcePath: _posts/2016-08-09-nem-landscapes-60-curated-by-gianluca-ricoveri.md
 isBasedOnUrl: >-
   http://neweramuseum.org/words/2016/8/8/nem-landscapes-60-curated-by-gianluca-ricoveri
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T15:09:20.382Z'
+dateModified: '2016-09-02T15:09:29.708Z'
 title: NEM Landscapes 60 curated by Gianluca Ricoveri
 app_links: []
 publisher:
